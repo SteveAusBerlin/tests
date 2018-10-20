@@ -57,4 +57,4 @@ function successOutput(response) {
 
 // this is new feature
 // test test test
-// fix some bugs
+// fix some new bugs
