@@ -1,0 +1,12 @@
+.table{margin-top: 50px}
+.table td{padding: 5px;}
+
+.error {
+    background-color: red;
+}
+.success {
+    background-color:green;
+}
+.box {
+    margin-top: 20px;
+}
