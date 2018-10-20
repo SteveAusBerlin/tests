@@ -56,5 +56,5 @@ function successOutput(response) {
 }
 
 // this is new feature
-// test test test
-// fix some bugs
+// test test test,
+// fix some new bugs
